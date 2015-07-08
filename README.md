@@ -14,7 +14,7 @@ The repo will also be found to contain a HelloWorld.md markdown file satisfying 
   3. Push the document to the datasciencecoursera repo you created on Github
   4. Submit the link to the HelloWorld.md file on your Github repo.
 
-The following submitted link goes to the above file on GitHub: [https://github.com/fpr3/datasciencecoursera/HelloWorld.md](https://github.com/fpr3/datasciencecoursera/HelloWorld.md)
+The following submitted link goes to the above file on GitHub: [https://github.com/fpr3/datasciencecoursera/blob/master/HelloWorld.md](https://github.com/fpr3/datasciencecoursera/blob/master/HelloWorld.md)
 
 Finally, the following requirements are met:
   1. Fork the data sharing repository here: https://github.com/jtleek/datasharing
